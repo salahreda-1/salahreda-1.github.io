@@ -37,7 +37,7 @@ if(mysqli_num_rows(mysqli_query($conn,$sql)) >0 ){
                                     <div class="cppp">
                                         <ul class="nav nav-pills cppp nav-justified mb-3" id="ex1" role="tablist">
                                             <li class="nav-item" role="presentation">
-                                              <a class="nav-link " id="tab-login" data-mdb-toggle="pill" href="login1.php" role="tab"
+                                              <a class="nav-link " id="tab-login" data-mdb-toggle="pill" href="index.php" role="tab"
                                                 aria-controls="pills-login" aria-selected="true">طالب</a>
                                             </li>
                                             <li class="nav-item" role="presentation">
